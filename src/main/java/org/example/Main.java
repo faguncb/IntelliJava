@@ -39,6 +39,13 @@ public class Main {
             System.out.println("Error " + e.getMessage());
         }
 
+        Person p1 = new Person("Pink Floyd");
+        System.out.println(p1);
+        Person p2 = new Person("Deep Purple");
+        p2.setEmail("deep@purple.com");
+        p2.setPhoneNumber("120 567 8909");
+        System.out.println(p2);
+
 
     }
 
