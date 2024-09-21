@@ -49,7 +49,7 @@ public class Student {
         System.out.println("Maths Grade: " + mathGrade);
         System.out.println("Science Grade: " + scienceGrade);
         System.out.println("Social Grade: " + socialGrade);
-    }x
+    }
 
 
 }
